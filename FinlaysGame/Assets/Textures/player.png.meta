@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: c0b27b7fac0572d499201387f248246e
+timeCreated: 1472388988
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_0
+    21300002: player_1
+    21300004: player_2
+    21300006: player_3
+    21300008: Standing
+    21300010: player_5
+    21300012: player_6
+    21300014: player_7
+    21300016: player_8
+    21300018: player_9
+    21300020: player_10
+    21300022: player_11
+    21300024: player_12
+    21300026: player_13
+    21300028: player_14
+    21300030: player_15
+    21300032: player_16
+    21300034: player_17
+    21300036: player_18
+    21300038: player_19
+    21300040: player_20
+    21300042: player_21
+    21300044: player_22
+    21300046: player_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 307
+        width: 132
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 131.5}
+        - {x: -47, y: 131.5}
+        - {x: -66, y: 100.5}
+        - {x: -66, y: -40.5}
+        - {x: -38, y: -120.5}
+        - {x: -17, y: -131.5}
+        - {x: 32, y: -131.5}
+        - {x: 64, y: -111.5}
+        - {x: 64, y: -103.5}
+        - {x: 66, y: -101.5}
+    - name: player_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 310
+        width: 154
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 135}
+        - {x: -77, y: 133}
+        - {x: -77, y: -97}
+        - {x: -51, y: -135}
+        - {x: -39, y: -135}
+        - {x: 1, y: -115}
+        - {x: 5, y: -106}
+        - {x: 8, y: -129}
+        - {x: 18, y: -135}
+        - {x: 47, y: -135}
+        - {x: 77, y: -116}
+        - {x: 77, y: 88}
+        - {x: 57, y: 135}
+    - name: player_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 339
+        width: 179
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 125}
+        - {x: -68.5, y: 125}
+        - {x: -89.5, y: 62}
+        - {x: -89.5, y: 36}
+        - {x: -72.5, y: -10}
+        - {x: -89.5, y: -24}
+        - {x: -89.5, y: -88}
+        - {x: -86.5, y: -93}
+        - {x: -30.5, y: -122}
+        - {x: -19.5, y: -125}
+        - {x: 86.5, y: -125}
+        - {x: 89.5, y: -107}
+        - {x: 89.5, y: -13}
+        - {x: 60.5, y: 91}
+    - name: player_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 310
+        width: 153
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 135}
+        - {x: -39.5, y: 135}
+        - {x: -56.5, y: 129}
+        - {x: -76.5, y: 106}
+        - {x: -76.5, y: -115}
+        - {x: -69.5, y: -135}
+        - {x: 54.5, y: -135}
+        - {x: 76.5, y: -121}
+        - {x: 76.5, y: 26}
+        - {x: 72.5, y: 95}
+    - name: Standing
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 308
+        width: 132
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 131}
+        - {x: -41, y: 131}
+        - {x: -66, y: 126}
+        - {x: -66, y: -9}
+        - {x: -40, y: -90}
+        - {x: -49, y: -128}
+        - {x: -34, y: -131}
+        - {x: 44, y: -131}
+        - {x: 64, y: -106}
+        - {x: 66, y: -75}
+        - {x: 66, y: 109}
+    - name: player_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 159
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 132.5}
+        - {x: -65.5, y: 123.5}
+        - {x: -79.5, y: 100.5}
+        - {x: -79.5, y: 29.5}
+        - {x: -77.5, y: 18.5}
+        - {x: -79.5, y: 13.5}
+        - {x: -79.5, y: -94.5}
+        - {x: -31.5, y: -128.5}
+        - {x: -10.5, y: -115.5}
+        - {x: -4.5, y: -106.5}
+        - {x: 19.5, y: -132.5}
+        - {x: 74.5, y: -132.5}
+        - {x: 79.5, y: -121.5}
+        - {x: 79.5, y: 104.5}
+        - {x: 65.5, y: 132.5}
+    - name: player_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 46
+        width: 177
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 98.5}
+        - {x: 33.5, y: 121.5}
+        - {x: -45.5, y: 121.5}
+        - {x: -79.5, y: 91.5}
+        - {x: -88.5, y: 3.5}
+        - {x: -88.5, y: -71.5}
+        - {x: -59.5, y: -110.5}
+        - {x: -36.5, y: -121.5}
+        - {x: 88.5, y: -121.5}
+        - {x: 88.5, y: -45.5}
+        - {x: 62.5, y: -23.5}
+    - name: player_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 11
+        width: 148
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 65.5}
+        - {x: 74, y: 95.5}
+        - {x: 33, y: 134.5}
+        - {x: -37, y: 134.5}
+        - {x: -54, y: 128.5}
+        - {x: -74, y: 105.5}
+        - {x: -74, y: -104.5}
+        - {x: -1, y: -134.5}
+        - {x: 59, y: -134.5}
+        - {x: 74, y: -125.5}
+        - {x: 74, y: -34.5}
+        - {x: 69, y: -17.5}
+    - name: player_8
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 7
+        width: 132
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 131.5}
+        - {x: -47, y: 131.5}
+        - {x: -66, y: 100.5}
+        - {x: -66, y: -40.5}
+        - {x: -38, y: -120.5}
+        - {x: -17, y: -131.5}
+        - {x: 32, y: -131.5}
+        - {x: 64, y: -111.5}
+        - {x: 64, y: -103.5}
+        - {x: 66, y: -101.5}
+    - name: player_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 196
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_10
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 192
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 196
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_12
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 196
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 196
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_14
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 196
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_15
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 196
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_16
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 196
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_17
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 170
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 170
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 170
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_20
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 170
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 170
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_22
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 170
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_23
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 170
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
